@@ -1,6 +1,12 @@
-# Awesome Dobestan
+# Awesome Dobestan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/dobestan/awesome-dobestan)
 
-A curated list of awesome information related to @dobestan, personal information, resume, projects.  https://dobest.io/
+[![Blog](https://img.shields.io/badge/blog-https://dobest.io-blue.svg?style=flat-square)](https://dobest.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dobestan-0077B5.svg?style=flat-square)](https://kr.linkedin.com/in/dobestan)
+[![Facebook](https://img.shields.io/badge/Facebook-dobestan-3b5998.svg?style=flat-square)](https://www.facebook.com/dobestan)
+[![Twitter](https://img.shields.io/badge/Twitter-dobestan-00aced.svg?style=flat-square)](https://twitter.com/dobestan)
+[![Instagram](https://img.shields.io/badge/Instagram-dobestan-517fa4.svg?style=flat-square)](https://www.instagram.com/dobestan/)
+
+A curated list of awesome informations related to [@dobestan](https://github.com/dobestan/).
 
 | CI Service | Status |
 | ---------- | ------ |
@@ -9,7 +15,3 @@ A curated list of awesome information related to @dobestan, personal information
 
 [awesome-dobestan](https://github.com/dobestan/awesome-dobestan) is well-tested project via various Continous Integration Services.
 CI Services mainly check whether `AWESOME_DOBESTAN` is `true` or not.
-
-```
-$ test $AWESOME_DOBESTAN
-```
