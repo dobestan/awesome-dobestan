@@ -27,10 +27,28 @@ is open resume of myself, highly inspired by [awesome-awesomeness](https://githu
 welcome to [email](mailto:me@ansuchan.com) me directly.
 
 
-## Religious Beliefs ##
+## Religious Beliefs :pray: ##
 
 > Before Reading this section, Giving disadvantaged because of religious beliefs is illegal.
 
 I believe in goat, a [Testing Goat](https://twitter.com/testinggoat). Actually, I [Obey the Testing Goat](http://www.obeythetestinggoat.com/)!
 Obviously, [This, Test Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html) is my second favorite book.
 First one? Definitely [The Pragmatic Programmer](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X).
+
+
+## Education :mortar_board: ##
+
+#### 1. [Seoul National University](http://snu.ac.kr/)
+
+Majors in *[Landscape Architecture](snula.snu.ac.kr)* from *[College of Agriculture and Life Sciences](http://cals.snu.ac.kr/)*, and
+*[Computer Science and Engineering](http://cse.snu.ac.kr/)* from *[College of Engineering](http://eng.snu.ac.kr/)*.
+
+#### 2. Online Courses
+
+I'm a big fan of [CodeSchool](https://www.codeschool.com/), [Udemy](https://www.udemy.com/) and [Egghead](https://egghead.io/).
+Here are some courses i highly recommend :
+
+- [Shell Scripting: Discover How to Automate Command Line Tasks, Udemy](https://www.udemy.com/shell-scripting-linux/)
+- [Learning Python for Data Analysis and Visualization, Udemy](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/)
+- [All Web Client, Ruby Courses, CodeSchool](https://www.codeschool.com/paths)
+- [All Javascript Lessons, Egghead](https://egghead.io/technologies)
