@@ -1,5 +1,11 @@
-language: go
+language: python
 go:
-    - tip
+    - '2.6'
+    - '2.7'
+    - '3.2'
+    - '3.3'
+    - '3.4'
+    - '3.5'
+    - 'nightly'
 script:
     - test AWESOME_DOBESTAN
