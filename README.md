@@ -25,3 +25,12 @@ Hello, YOU READER! I am **Suchan An**, also kwown as **dobestan**. [This documen
 is open resume of myself, highly inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) series.
 **Currently, I am looking for a Software Engineer position which company meets certain conditions.** For further information, always
 welcome to [email](mailto:me@ansuchan.com) me directly.
+
+
+## Religious Beliefs ##
+
+> Before Reading this section, Giving disadvantaged because of religious beliefs is illegal.
+
+I believe in goat, a [Testing Goat](https://twitter.com/testinggoat). Actually, I [Obey the Testing Goat](http://www.obeythetestinggoat.com/)!
+Obviously, [This, Test Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html) is my second favorite book.
+First one? Definitely [The Pragmatic Programmer](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X).
