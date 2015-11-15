@@ -43,7 +43,14 @@ First one? Definitely [The Pragmatic Programmer](http://www.amazon.com/The-Pragm
 Majors in *[Landscape Architecture](snula.snu.ac.kr)* from *[College of Agriculture and Life Sciences](http://cals.snu.ac.kr/)*, and
 *[Computer Science and Engineering](http://cse.snu.ac.kr/)* from *[College of Engineering](http://eng.snu.ac.kr/)*.
 
-#### 2. Online Courses
+
+#### 2. [NHN NEXT](http://nhnnext.org/)
+
+[NHN NEXT](https://www.nhnnext.org/about/index.nhn) is a Educational Institution, established by [NHN Corporation](https://www.navercorp.com/en/index.nhn).
+Majors in *[Web Server Programming](http://nhnnext.org/curriculum/track/web.nhn)* in 2014.
+
+
+#### 3. Online Courses
 
 I'm a big fan of [CodeSchool](https://www.codeschool.com/), [Udemy](https://www.udemy.com/) and [Egghead](https://egghead.io/).
 Here are some courses i highly recommend :
