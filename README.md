@@ -59,3 +59,21 @@ Here are some courses i highly recommend :
 - [Learning Python for Data Analysis and Visualization, Udemy](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/)
 - [All Web Client, Ruby Courses, CodeSchool](https://www.codeschool.com/paths)
 - [All Javascript Lessons, Egghead](https://egghead.io/technologies)
+
+
+## Writings ##
+
+I love writing, writing about programming, and also my thoughts.
+
+#### Personal Blog [![Blog](https://img.shields.io/badge/blog-https://dobest.io-blue.svg?style=flat-square)](https://dobest.io/)
+
+Here are some posts I like :
+
+- [Getting Started with Python Development Environment with pyenv, virtualenv, autoenv](https://dobest.io/how-to-set-python-dev-env/)
+- Docker Registry Series - [1. Docker on Local](https://dobest.io/docker-registry-01-install-on-local-machine/), [2. Docker on AWS](https://dobest.io/docker-registry-02-install-on-ec2-and-s3/), [3. Docker with Authentication](https://dobest.io/temp-docker-registry-03/)
+
+#### SNS [![Facebook](https://img.shields.io/badge/Facebook-dobestan-3b5998.svg?style=flat-square)](https://www.facebook.com/dobestan.dev) [![Twitter](https://img.shields.io/badge/Twitter-dobestan-00aced.svg?style=flat-square)](https://twitter.com/dobestan) [![Instagram](https://img.shields.io/badge/Instagram-dobestan-517fa4.svg?style=flat-square)](https://www.instagram.com/dobestan/)
+
+I manages facebook page called "[dobestan's dev story](https://www.facebook.com/dobestan.dev/)".
+I usually write about opensource projects, tech startup, etc, on [this page](https://www.facebook.com/dobestan.dev/).
+How about my personal account? [here](https://www.facebook.com/dobestan/).
