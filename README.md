@@ -1,3 +1,7 @@
+<!--
+나는 안수찬이다. 그러므로 나는 할 수 있다.
+-->
+
 # Awesome Dobestan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/dobestan/awesome-dobestan)
 
 [![Blog](https://img.shields.io/badge/blog-https://dobest.io-blue.svg?style=flat-square)](https://dobest.io/)
@@ -18,6 +22,12 @@ A curated list of awesome informations related to [@dobestan](https://github.com
 [awesome-dobestan](https://github.com/dobestan/awesome-dobestan) is **well-tested** project via various Continous Integration Services.
 CI Services mainly check whether `AWESOME_DOBESTAN` is `true` or not. What a nice test case! :sunglasses:
 
+<!--
+## Objective
+
+- awesome-pay
+- awesome-wlb ( work life balance )
+-->
 
 ## Summary [![looking_for_a_job](https://img.shields.io/badge/looking_for_a_job-TRUE-brightgreen.svg?style=flat-square)]()
 
@@ -77,3 +87,7 @@ Here are some posts I like :
 I manages facebook page called "[dobestan's dev story](https://www.facebook.com/dobestan.dev/)".
 I usually write about opensource projects, tech startup, etc, on [this page](https://www.facebook.com/dobestan.dev/).
 How about my personal account? [here](https://www.facebook.com/dobestan/).
+
+<!--
+나는 안수찬이다. 그러므로 나는 할 수 있다.
+-->
